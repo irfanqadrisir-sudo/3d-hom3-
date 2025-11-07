@@ -1,0 +1,7 @@
+{
+  "name": "AI 3D Home Generator",
+  "description": "Generate stunning 3D video tours of homes by simply describing your vision in a text prompt. Leverages Google's Gemini API to turn your architectural ideas into virtual reality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
